@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! 
+
+I'm Kelly, a web developer interested in making meaningful experiences, learning new things, and doing interesting things with code.
 
 <!--
 **meteoratlas/meteoratlas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
